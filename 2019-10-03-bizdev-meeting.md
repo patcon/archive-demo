@@ -1,0 +1,56 @@
+# 2019-10-03 Hypha Co-op: Bizdev Meeting
+
+- crm covo
+    - …
+- …
+- first few project shape company
+- dc: doing coop client work important
+- udit: feel like so much untapped potential in co-op movement. +1 patcon, 0 dcwalk
+- patcon: yourlevel.co. product. markup on fees. makes real money
+    - udit: interesting, but something when we have reserve
+- udit: deck
+- opportunities
+    - pc: community.coops.tech forum
+	- pc: tech-coop mailing list (PyPi)
+	- local orgs
+		- uv: how to build presence around those?
+		- dc: netsquared. meetup. pints for non-profits.
+		- pc: CSI mailing list (small fee, if we want)
+		- dc: toronto foundation (work with tides platform)
+		- dc: city of toront green grants
+		- bl: running infra for small businesses.
+			- pc: interested to help sell it if others are interested in that sort of work
+			- dc: the ppl who are likely to do this are parttime. (flag)
+			- bl: most of time things are smooth. can be part time.
+		- toronto arts orgs needing partners on funds
+		- dc: project management work. academic grant funded. incl design and dev work.
+			- e.g., building an app, digital strategy, etc…
+			- pc: +1. esp re: FACTTIC
+			- bl: maybe not so much about our values
+		- dc: development / proj mang
+			- dc: feels like a med/lrg scale thing (esp re FACTTIC)
+			- bl: bigger project ($200,000) feels like better place to experiment with collab (e.g., working across orgs)
+				- pc: flagging that odd to lay foundation for larger projects being better experiment space
+			- dc: in big org, things fly under radar
+		- dc: OLF, Ford Fightback
+			- dc: labour unions! have money.
+		- ben: #BlockSidewalk project?
+		- ask folks?
+			- nomadic labs
+			- Victoria Barnett, Una Lee?, Aylwin Lo
+		- dc: direct ask of people who we like: DO YOU HAVE WORK?
+		- …
+	- grant opps
+		- bl: CIRA. potential grants. due feb/mar.
+			- no money before June. so prob not in timeframe.
+		- uv: digital strategy fund (canadian council of arts)
+			- model where tapped as partner on a grant someone else submits
+			- arts organization working on this!!
+		- bl: prototype fund (EU)
+	- what we need to start pitching:
+		- menu of offerings
+		- branding?
+			- #todo 
+			- #todo short bios
+			- #todo photoshoot? teambuilding
+			- our approach & language
