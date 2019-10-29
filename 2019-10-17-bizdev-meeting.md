@@ -1,0 +1,52 @@
+# 2019-10-17 Hypha Co-op: Bizdev meeting
+
+## Notes
+
+- from later doesn't do time tracking
+- agenda?
+    - patcon: share grant deal
+    - patcon: discuss collabs. is this bizdev?
+    - ben: update on distributed.press
+    - ben: write business plan
+        - udit: what's useful
+    - ben: what's our scope? (from all hands)
+        - uv: what's the image we want to project?
+        - yj: can i do x project?
+    - uv: #todo 5-slide deck to share (related to brand)
+- what's our scope?
+    - patcon: hope to let us just take on what peple want to take on, and collectivize it
+    - bl: not sure
+    - uv: people need to come in strongly championing. if someone doesn't 
+    - pc: want to support someone getting in bizdev pipeline mode, esp el and yj (who might not do tons of bizdev)
+    - bl: yj is the sale person who brings in work el is interested to do
+    - uv: is that what we think hypha is? is that what yj thinks it is?
+    - pc: shared boat/vessel analogy (optics outside are)
+    - bl: externally it must be more specific. +1 patcon.
+    - bl: can always pivot (implicit), but how fast do we want?
+        - uv: quite common to be chaotic
+    - uv: "what is strategic" is the most imp question in hypha
+        - bl: list of workshop things in retreat. uv: not strat.
+- what do we want to get out of hypha?
+    - bl of uv: i think uv wants to find ways to fund art and tech projects that are difficult to materialize.
+        - uv: partnership opportunities later
+- ASIDE: ben: cisie project, android (in CRM already)
+- uv: #todo deal for myseum
+    - not putting this in
+    - discussion of when do we put stuff in
+    - pc+uv: have different ideas of when leads go in system. pc = early. uv = later after definition.
+        - pc: serendipity
+    - bl: concern about divergence of process
+    - uv+pc: don't feel a need for reigning in process right away
+        - uv: lot of work to follow rigid methods
+- uv on pc: working on new models. co-op structure figuring. new modes/models for organzing. co-op ecosystem. partnerships with other co-ops.
+    - pc: living well seems high priority. willing to do shill work in order to do good work of co-op dev.
+    - bl: possible to do non-value-aligned work to sustain other work. not sure if we can ever get off this.
+- ...
+- pc: shared details on climate emergency fund opp
+    - https://climateemergencyfund.org/cef-grant-program/
+    - 10% skim of USD$20,0000
+- uv+bl: psyched about mesh game
+    - nuit blanche project! next year!
+    - uv: lora bracelets
+    - #todo connect with DMG
+    - uv knows a game mechanic design
