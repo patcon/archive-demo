@@ -26,5 +26,4 @@ jobs:
           pecl: true #optional, setup PECL
       - run: |
           composer require vanilla/github-sync
-          echo "github-sync labels --from $LABEL_REPO_SOURCE --to $LABEL_REPO_TARGET --delete prune"
-          composer exec "github-sync labels --from $LABEL_REPO_SOURCE --to $LABEL_REPO_TARGET --delete prune"
+          ./vendor/bin/github-sync labels --from $LABEL_REPO_SOURCE --to $LABEL_REPO_TARGET --delete prune
