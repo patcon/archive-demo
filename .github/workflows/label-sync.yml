@@ -16,8 +16,7 @@ jobs:
       LABEL_REPO_SOURCE: patcon/archive-demo
       LABEL_REPO_TARGET: patcon/labeler-demo
     steps:
-        uses: MilesChou/composer-action@master
-        run: |
-          composer require vanilla/github-sync
-          github-sync labels --from $LABEL_REPO_SOURCE --to $LABEL_REPO_TARGET --delete prune
+      - uses: MilesChou/composer-action@master
+        with: require vanilla/github-sync
+      - run: github-sync labels --from $LABEL_REPO_SOURCE --to $LABEL_REPO_TARGET --delete prune
 
