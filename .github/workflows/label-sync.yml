@@ -27,5 +27,5 @@ jobs:
       - run: |
           composer require vanilla/github-sync
           for target in $LABEL_REPO_TARGETS; do
-            ./vendor/bin/github-sync labels --from $LABEL_REPO_SOURCE --to target --delete prune
+            ./vendor/bin/github-sync labels --from $LABEL_REPO_SOURCE --to $target --delete prune
           done
