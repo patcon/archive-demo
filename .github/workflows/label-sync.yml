@@ -16,8 +16,14 @@ jobs:
       LABEL_REPO_SOURCE: patcon/archive-demo
       LABEL_REPO_TARGET: patcon/labeler-demo
     steps:
-      - uses: MilesChou/composer-action@master
+      - name: Setup PHP
+        uses: shivammathur/setup-php@master
         with:
-          args: global require vanilla/github-sync
-      - run: github-sync labels --from $LABEL_REPO_SOURCE --to $LABEL_REPO_TARGET --delete prune
-
+          php-version: '7.3'
+          extension-csv: mbstring, xdebug #optional, setup extensions
+          ini-values-csv: post_max_size=256M, short_open_tag=On #optional, setup php.ini configuration
+          coverage: xdebug #optional, setup coverage driver
+          pecl: true #optional, setup PECL
+      - run: |
+          composer global require vanilla/github-sync
+          github-sync labels --from $LABEL_REPO_SOURCE --to $LABEL_REPO_TARGET --delete prune
