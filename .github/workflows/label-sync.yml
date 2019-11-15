@@ -18,6 +18,6 @@ jobs:
     steps:
       - uses: MilesChou/composer-action@master
         with:
-          args: require vanilla/github-sync
+          args: global require vanilla/github-sync
       - run: github-sync labels --from $LABEL_REPO_SOURCE --to $LABEL_REPO_TARGET --delete prune
 
