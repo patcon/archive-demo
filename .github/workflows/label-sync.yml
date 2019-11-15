@@ -25,5 +25,5 @@ jobs:
           coverage: xdebug #optional, setup coverage driver
           pecl: true #optional, setup PECL
       - run: |
-          composer global require vanilla/github-sync
-          github-sync labels --from $LABEL_REPO_SOURCE --to $LABEL_REPO_TARGET --delete prune
+          composer require vanilla/github-sync
+          composer exec github-sync labels --from $LABEL_REPO_SOURCE --to $LABEL_REPO_TARGET --delete prune
